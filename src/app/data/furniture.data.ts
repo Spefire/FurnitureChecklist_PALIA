@@ -3970,6 +3970,494 @@ export const iListCollections: ICollection[] = [
     color: 800,
     items: [
       {
+        image: 'https://palia.wiki.gg/images/Akwinduu_Chapaa.png?c7c4f2',
+        name: 'Akwinduu Chapaa',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Bacon-Stuffed_Mushrooms.png?b4b49e',
+        name: 'Bacon-Stuffed Mushrooms',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Bouillabaisse.png?83c654',
+        name: 'Bouillabaisse',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Chapaa_Masala.png?6801ad',
+        name: 'Chapaa Masala',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Chili_Oil_Dumplings.png?261e4a',
+        name: 'Chili Oil Dumplings',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Crab_Gumbo.png?fb659f',
+        name: 'Crab Gumbo',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Cream_of_Mushroom_Soup.png?111186',
+        name: 'Cream of Mushroom Soup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Cream_of_Tomato_Soup.png?478171',
+        name: 'Cream of Tomato Soup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Creamy_Carrot_Soup.png?51f7af',
+        name: 'Creamy Carrot Soup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Fish_Stew.png?23a78d',
+        name: 'Fish Stew',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Fried_Catfish_Dinner.png?3afda9',
+        name: 'Fried Catfish Dinner',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Hearty_Vegetable_Soup.png?1c4688',
+        name: 'Hearty Vegetable Soup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Hot_Hounds.png?fbaed6',
+        name: 'Hot Hounds',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Kimchi_Fried_Rice.png?d13246',
+        name: 'Kimchi Fried Rice',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Loaded_Potato_Soup.png?b8f192',
+        name: 'Loaded Potato Soup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Lucky_Braised_Fish.png?e652e9',
+        name: 'Lucky Braised Fish',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Meaty_Stir_Fry.png?730873',
+        name: 'Meaty Stir Fry',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Mushroom_Dumpling_Soup.png?cf3397',
+        name: 'Mushroom Dumpling Soup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Palian_Onion_Soup.png?5fb047',
+        name: 'Palian Onion Soup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Pan_Fried_Dumplings.png?24e97d',
+        name: 'Pan Fried Dumplings',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Phoenixfire_Relleno.png?df16d1',
+        name: 'Phoenixfire Relleno',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Pumpkin_Stew.png?7beacc',
+        name: 'Pumpkin Stew',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Ramen.png?7f7dc6',
+        name: 'Ramen',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Rice_Cake_Soup.png?b458c2',
+        name: 'Rice Cake Soup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Rice_Cake_Stir_Fry.png?814a0a',
+        name: 'Rice Cake Stir Fry',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Sernuk_Noodle_Stew.png?c461d7',
+        name: 'Sernuk Noodle Stew',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Soon_Tofu.png?dd6608',
+        name: 'Soon Tofu',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Spicy_Crab_Fried_Rice.png?189925',
+        name: 'Spicy Crab Fried Rice',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Spicy_Rice_Cakes.png?c6b791',
+        name: 'Spicy Rice Cakes',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Spicy_Stir_Fry.png?85c104',
+        name: 'Spicy Stir Fry',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Steak_Dinner.png?605bf8',
+        name: 'Steak Dinner',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Steamed_Fish.png?b8b335',
+        name: 'Steamed Fish',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Stuffed_Tomatoes.png?e822d2',
+        name: 'Stuffed Tomatoes',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Trout_Dinner.png?712a5c',
+        name: 'Trout Dinner',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Veggie_Chili.png?3fbd64',
+        name: 'Veggie Chili',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Veggie_Fried_Rice.png?26f9ee',
+        name: 'Veggie Fried Rice',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Apple_Pie.png?d58352',
+        name: 'Apple Pie',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Blueberry_Pie.png?c289d1',
+        name: 'Blueberry Pie',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Candied_Kopaa_Nuts.png?b401b0',
+        name: 'Candied Kopaa Nuts',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Crab_Pot_Pie.png?59d082',
+        name: 'Crab Pot Pie',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Elderwood_Pie.png?26fa2c',
+        name: 'Elderwood Pie',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Loaded_Flowtato.png?c76fcf',
+        name: 'Loaded Flowtato',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Mushroom_Quiche.png?5381cf',
+        name: 'Mushroom Quiche',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Muujin_Bahari.png?8abc97',
+        name: 'Muujin Bahari',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Oysters_Akwinduu.png?679a09',
+        name: 'Oysters Akwinduu',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Pumpkin_Pie.png?5c3a35',
+        name: 'Pumpkin Pie',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Quiche_Caleri.png?295e5b',
+        name: 'Quiche Caleri',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Shepp%27s_Pie.png?65a77f',
+        name: 'Shepp s Pie',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Spicy_Honey-Baked_Muujin.png?97b2ba',
+        name: 'Spicy Honey-Baked Muujin',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Stuffed_Cabbage_Rolls.png?5b66d0',
+        name: 'Stuffed Cabbage Rolls',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Bean_Burger.png?a8fd6b',
+        name: 'Bean Burger',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Celebration_Cake.png?3c3822',
+        name: 'Celebration Cake',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Chapaa_Asada_Tacos.png?20f3ac',
+        name: 'Chapaa Asada Tacos',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Chapaa_Onigiri.png?180cb7',
+        name: 'Chapaa Onigiri',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Fish_Tacos.png?cc101e',
+        name: 'Fish Tacos',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Flowtato_Fries_with_Ketchup.png?d4dcec',
+        name: 'Flowtato Fries with Ketchup',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Petit_Fives.png?8e12fc',
+        name: 'Petit Fives',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Sashimi.png?86098a',
+        name: 'Sashimi',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Sushi.png?fab17f',
+        name: 'Sushi',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Fruit_Smoothie_Bowl.png?2920cb',
+        name: 'Fruit Smoothie Bowl',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/thumb/Macaron.png/300px-Macaron.png?ad53dc',
+        name: 'Macaron',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Poke_Bowl.png?1f3f45',
+        name: 'Poke Bowl',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Pumpkin_Curry_and_Rice.png?b48900',
+        name: 'Pumpkin Curry and Rice',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Congee.png?c71053',
+        name: 'Congee (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Fisherman%27s_Brew.png?424e0d',
+        name: 'Fisherman s Brew (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Grilled_Fish.png?14661e',
+        name: 'Grilled Fish (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Grilled_Meat.png?f9b1a9',
+        name: 'Grilled Meat (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Grilled_Mushroom.png?a67ce4',
+        name: 'Grilled Mushroom (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Grilled_Oyster.png?ad4441',
+        name: 'Grilled Oyster (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Breakfast_Skillet.png?6ca2db',
+        name: 'Breakfast Skillet (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Beans_On_Toast.png?2062ca',
+        name: 'Beans On Toast (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Anch%27_%27n_Grits.png?6ed2ec',
+        name: 'Anch n Grits (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Jaakcat_Stew.png?c00e18',
+        name: 'Jaakcat Stew (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Rice_%27n_Beans.png?46d000',
+        name: 'Rice n Beans (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/S%27mores.png?ca1c68',
+        name: 'S mores (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Campfire_Soup.png?83c654',
+        name: 'Campfire Soup (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Crab_Boil.png?d1df3b',
+        name: 'Crab Boil (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Rockhopper_Legs.png?99d308',
+        name: 'Rockhopper Legs (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Highlands_Bratwurst.png?16a672',
+        name: 'Highlands Bratwurst (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Heather_Tea.png?989bde',
+        name: 'Heather Tea (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Lotus_Leaf_Tea.png?f822ed',
+        name: 'Lotus Leaf Tea (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Wisteria_Tea.png?8ca24e',
+        name: 'Wisteria Tea (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Dawnspur_Tea.png?daa80a',
+        name: 'Dawnspur Tea (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Fern_Tea.png?237503',
+        name: 'Fern Tea (not displayable now)',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Century_Egg_Congee.png?a969bc',
+        name: 'Century Egg Congee',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_B%C3%A1nh_M%C3%AC.png?f2da6a',
+        name: 'Reth s Bánh Mì',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Corn_Dogs.png?88f7b4',
+        name: 'Reth s Corn Dogs',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Hearty_Veggie_Bao.png?39f19b',
+        name: 'Reth s Hearty Veggie Bao',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Hot_Peki_Wings.png?7128ed',
+        name: 'Reth s Hot Peki Wings',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Ice_Cream_Mochi.png?34e021',
+        name: 'Reth s Ice Cream Mochi',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Chapaa_Onigiri.png?180cb7',
+        name: 'Reth s Onigiri',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Poke_Bowl.png?1f3f45',
+        name: 'Reth s Poke Bowl',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Red_Bean_Mochi.png?1b81e1',
+        name: 'Reth s Red Bean Mochi',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Stinky_Tofu.png?6161ca',
+        name: 'Reth s Stinky Tofu',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Lumpia.png?563551',
+        name: 'Reth s Lumpia',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Noodle_Rolls.png?1a75c5',
+        name: 'Reth s Noodle Rolls',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Reth%27s_Banh_Chung.png?d30dde',
+        name: 'Reth s Bánh Chưng',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Halo_Halo.png?e69665',
+        name: 'Delaila s Halo Halo',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Handy_Crepe.png?b90617',
+        name: 'Delaila s Handy Crepe',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Tanghulu.png?d8dc5f',
+        name: 'Delaila s Tanghulu',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Rolled_Ice_Cream.png?7c0075',
+        name: 'Delaila s Rolled Ice Cream',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Spiced_Sweet_Roll.png?6c8cf1',
+        name: 'Delaila s Spiced Sweet Roll',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Peach_Cake.png?4a16c3',
+        name: 'Delaila s Peach Cake',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Melon_Bun.png?5801b3',
+        name: 'Delaila s Melon Bun',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Hopalong_Puff.png?8e0d14',
+        name: 'Delaila s Hopalong Puff',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Eight_Treasure_Rice.png?b5be39',
+        name: 'Delaila s Eight Treasure Rice',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Nian_Gao.png?3a1c94',
+        name: 'Delaila s Nian Gao',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Fried_Sesame_Balls.png?976c88',
+        name: 'Delailas Fried Sesame Balls',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Almond_Cookies.png?9337e1',
+        name: 'Delailas Almond Cookies',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Hopia.png?ca2b5c',
+        name: 'Delaila s Hopia',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Delaila%27s_Kapse.png?6318b5',
+        name: 'Delaila s Kapse',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Chapaa_Pop.png?2220c0',
+        name: 'Chapaa Pop',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Zeki%27s_Original_Taiyaki.png?74976c',
+        name: 'Zeki s Original Taiyaki',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Zeki%27s_Ube_Taiyaki.png?372398',
+        name: 'Zeki s Ube Taiyaki',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Zeki%27s_Custard_Taiyaki.png?324db6',
+        name: 'Zeki s Custard Taiyaki',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Zeki%27s_Pandan_Taiyaki.png?e828cc',
+        name: 'Zeki s Pandan Taiyaki',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Zeki%27s_Spicy_Taiyaki.png?d6e5d3',
+        name: 'Zeki s Spicy Taiyaki',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Salty_Hotpot_Takeout.png?683b63',
+        name: 'Salty Hotpot Takeout',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Tangy_Hotpot_Takeout.png?dc4a1f',
+        name: 'Tangy Hotpot Takeout',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Umami_Hotpot_Takeout.png?5e49be',
+        name: 'Umami Hotpot Takeout',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Spicy_Hotpot_Takeout.png?fde1fa',
+        name: 'Spicy Hotpot Takeout',
+      },
+      {
+        image: 'https://palia.wiki.gg/images/Summertime_Fruity_Nojito.png?693328',
+        name: 'Summertime Fruity Nojito',
+      },
+      {
         image: 'https://palia.wiki.gg/images/Summer_Stripe_Citrus_Tea.png?bbe45d',
         name: 'Summer Stripe Citrus Tea',
       },
@@ -3986,18 +4474,7 @@ export const iListCollections: ICollection[] = [
         name: 'Summer Stripe Ocean Tea',
       },
 
-      {
-        image: 'https://palia.wiki.gg/images/Crab_Boil.png?d1df3b',
-        name: 'Crab Boil',
-      },
-      {
-        image: 'https://palia.wiki.gg/images/Rockhopper_Legs.png?99d308',
-        name: 'Rockhopper Legs',
-      },
-      {
-        image: 'https://palia.wiki.gg/images/Highlands_Bratwurst.png?16a672',
-        name: 'Highlands Bratwurst',
-      },
+      
     ],
   },
   {
@@ -7365,6 +7842,11 @@ export const iListCollections: ICollection[] = [
         name: 'Palcat Plushie 4',
       },
       {
+        image: 'https://palia.wiki.gg/images/Morning_In_Bahari_Jukebox.png?698730',
+        tags: [Tag.NO_MORE_AVAILABLE],
+        name: 'Morning In Bahari Jukebox',
+      },
+      {
         image: 'https://palia.wiki.gg/images/Stackable_Muujin_Pillow.png?ed9898',
         tags: [Tag.NO_MORE_AVAILABLE],
         name: 'Stackable Muujin Pillow',
@@ -7604,7 +8086,7 @@ export const iListCollections: ICollection[] = [
         name: 'Giga Maws Plush',
       },
       {
-        image: 'https://palia.wiki.gg/images/thumb/Unknown.png/28px-Unknown.png?a723ca',
+        image: 'https://palia.wiki.gg/images/thumb/Belafontine%27s_Rosebush.png/28px-Belafontine%27s_Rosebush.png?6d19e2',
         name: 'Belafontine s Rosebush',
       },
       {
@@ -7624,7 +8106,7 @@ export const iListCollections: ICollection[] = [
         name: 'Light Wisteria Trellis',
       },
       {
-        image: 'https://palia.wiki.gg/images/thumb/Unknown.png/28px-Unknown.png?a723ca',
+        image: 'https://palia.wiki.gg/images/thumb/Enfield%27s_Rosebush.png/28px-Enfield%27s_Rosebush.png?83dde0',
         name: 'Enfield s Rosebush',
       },
       {
