@@ -1,9 +1,17 @@
 # "Furniture Checklist | Palia (non-official)" website
 
-## Development server
+Checklist non officielle des meubles collectés dans le jeu Palia.
+Angular 21, service worker (sans installation PWA), pas de SSR.
 
-Run `ng serve` or `serve.bat` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Commandes
 
-## Build
+| Commande | Description |
+| --- | --- |
+| `npm run start` | Serveur de développement sur `http://localhost:4200/` |
+| `npm run build` | Build de production dans `dist/palia-furniture-checklist/browser` |
+| `npm run lint` | ESLint (TypeScript et templates) |
+| `npm run prettier` | Formatage du code |
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Environnement
+
+Le build de production nécessite `src/environments/environment.prod.ts` (ignoré par Git), généré par `node generate-env-script.js`.
