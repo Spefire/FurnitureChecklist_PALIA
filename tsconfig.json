@@ -25,15 +25,14 @@
     "noResolve": false,
     "resolveJsonModule": true,
     "paths": {
-      "@src/*": [
-        "./src/app/*"
-      ]
+      "@src/*": ["./src/app/*"],
+      "@environments/*": ["./src/environments/*"],
+      "@assets/*": ["./src/assets/*"]
     },
     // Emit
     "declaration": false,
     "emitDeclarationOnly": false,
     "importHelpers": true,
-    "importsNotUsedAsValues": "remove",
     "newLine": "crlf",
     "preserveConstEnums": true,
     "removeComments": true,
