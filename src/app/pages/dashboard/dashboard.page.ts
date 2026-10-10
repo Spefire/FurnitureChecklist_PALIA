@@ -1,4 +1,4 @@
-import { Component, computed, OnInit, signal } from '@angular/core';
+import { ChangeDetectionStrategy, Component, computed, OnInit, signal } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
 import { ButtonComponent } from '@lucca-front/ng/button';
@@ -61,6 +61,7 @@ import { AppService } from '@src/services/app.service';
     LinkComponent,
   ],
   templateUrl: './dashboard.page.html',
+  changeDetection: ChangeDetectionStrategy.Eager,
   styleUrl: './dashboard.page.scss',
 })
 export class DashboardPage implements OnInit {

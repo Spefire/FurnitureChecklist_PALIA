@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
 
 import { ButtonComponent } from '@lucca-front/ng/button';
@@ -13,6 +13,7 @@ import { PageTitles } from '@src/models/pages.model';
 @Component({
   selector: 'legacy-page',
   imports: [RouterLink, MainLayoutBlockComponent, MainLayoutComponent, PageHeaderComponent, ContainerComponent, ButtonComponent, LinkComponent, IconComponent],
+  changeDetection: ChangeDetectionStrategy.Eager,
   templateUrl: './legacy.page.html',
 })
 export class LegacyPage {

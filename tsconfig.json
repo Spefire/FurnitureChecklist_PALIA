@@ -20,7 +20,6 @@
     "useUnknownInCatchVariables": true,
     // Modules
     "allowUmdGlobalAccess": false,
-    "baseUrl": "./",
     "module": "ESNext",
     "moduleResolution": "bundler",
     "noResolve": false,
@@ -32,7 +31,6 @@
     },
     // Emit
     "declaration": false,
-    "downlevelIteration": true,
     "emitDeclarationOnly": false,
     "importHelpers": true,
     "importsNotUsedAsValues": "remove",
@@ -47,7 +45,7 @@
     "disableSizeLimit": false,
     "plugins": [],
     // Interop Constraints
-    "allowSyntheticDefaultImports": false,
+    "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": false,
     // Language and Environment

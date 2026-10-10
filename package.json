@@ -10,17 +10,17 @@
     "prettier": "npx prettier --write ."
   },
   "dependencies": {
-    "@angular/animations": "^21.1.0",
-    "@angular/common": "^21.1.0",
-    "@angular/compiler": "^21.1.0",
-    "@angular/core": "^21.1.0",
-    "@angular/forms": "^21.1.0",
-    "@angular/platform-browser": "^21.1.0",
-    "@angular/platform-browser-dynamic": "^21.1.0",
-    "@angular/router": "^21.1.0",
-    "@lucca-front/icons": "^21.0.2",
-    "@lucca-front/ng": "^21.0.2",
-    "@lucca-front/scss": "^21.0.2",
+    "@angular/animations": "^22.2.2",
+    "@angular/common": "^22.2.2",
+    "@angular/compiler": "^22.2.2",
+    "@angular/core": "^22.2.2",
+    "@angular/forms": "^22.2.2",
+    "@angular/platform-browser": "^22.2.2",
+    "@angular/platform-browser-dynamic": "^22.2.2",
+    "@angular/router": "^22.2.2",
+    "@lucca-front/icons": "^22.0.5",
+    "@lucca-front/ng": "^22.0.5",
+    "@lucca-front/scss": "^22.0.5",
     "@tsparticles/angular": "^3.0.0",
     "@tsparticles/engine": "^3.8.1",
     "@tsparticles/slim": "^3.8.1",
@@ -30,17 +30,17 @@
     "zone.js": "^0.15.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^21.1.0",
-    "@angular/cli": "^21.1.0",
-    "@angular/compiler-cli": "^21.1.0",
+    "@angular-devkit/build-angular": "^22.2.2",
+    "@angular/cli": "^22.2.2",
+    "@angular/compiler-cli": "^22.2.2",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "@types/node": "^18.18.0",
-    "angular-eslint": "^19.2.8",
+    "angular-eslint": "^22.5.0",
     "eslint": "^9.25.1",
     "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-prettier": "^5.2.6",
     "prettier": "^3.5.3",
-    "typescript": "^5.9.3",
-    "typescript-eslint": "^8.31.0"
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.71.1"
   }
 }

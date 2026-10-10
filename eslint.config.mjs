@@ -16,6 +16,8 @@ export default tseslint.config({
     ...angular.configs.tsRecommended,
   ],
   rules: {
+    // Angular 22 migration kept ChangeDetectionStrategy.Eager; remove once components are moved to OnPush
+    '@angular-eslint/prefer-on-push-component-change-detection': 'off',
     // Angular rules
     '@angular-eslint/component-class-suffix': [
       'error',
