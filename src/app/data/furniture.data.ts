@@ -4473,8 +4473,6 @@ export const iListCollections: ICollection[] = [
         image: 'https://palia.wiki.gg/images/Summer_Stripe_Ocean_Tea.png?2bece9',
         name: 'Summer Stripe Ocean Tea',
       },
-
-      
     ],
   },
   {
@@ -8571,8 +8569,6 @@ export const iListCollections: ICollection[] = [
       },
     ],
   },
-
-
 
   {
     name: 'Set',

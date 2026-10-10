@@ -22,7 +22,7 @@ export default tseslint.config({
     '@angular-eslint/component-class-suffix': [
       'error',
       {
-        suffixes: ['Component', 'Modal', 'Page'],
+        suffixes: ['Component', 'Modal', 'Page', 'View'],
       },
     ],
     // Typescript rules

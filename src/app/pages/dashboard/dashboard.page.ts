@@ -1,4 +1,4 @@
-import { ChangeDetectionStrategy, Component, computed, OnInit, signal } from '@angular/core';
+import { ChangeDetectionStrategy, Component, computed, inject, OnInit, signal } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
 import { ButtonComponent } from '@lucca-front/ng/button';
@@ -184,8 +184,7 @@ export class DashboardPage implements OnInit {
     });
     return result;
   });
-
-  constructor(private _appService: AppService) {}
+  private _appService = inject(AppService);
 
   public ngOnInit() {
     this.listCollections.set(iListCollections.map(i => new Collection(i)));
