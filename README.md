@@ -1,7 +1,7 @@
 # FurnitureChecklist_PALIA
 
 Checklist non officielle des meubles collectés dans le jeu Palia.
-Angular 21, service worker (sans installation PWA), pas de SSR.
+Angular 21, pas de PWA, pas de SSR.
 
 ## Commandes
 
