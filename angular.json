@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "atp": {
+    "furniture-checklist-palia": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/palia-furniture-checklist/browser",
+            "outputPath": "dist/furniture-checklist-palia/browser",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": ["zone.js"],
@@ -79,10 +79,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "atp:build:production"
+              "buildTarget": "furniture-checklist-palia:build:production"
             },
             "development": {
-              "buildTarget": "atp:build:development"
+              "buildTarget": "furniture-checklist-palia:build:development"
             }
           },
           "defaultConfiguration": "development"

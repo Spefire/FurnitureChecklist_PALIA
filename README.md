@@ -1,4 +1,4 @@
-# "Furniture Checklist | Palia (non-official)" website
+# FurnitureChecklist_PALIA
 
 Checklist non officielle des meubles collectés dans le jeu Palia.
 Angular 21, service worker (sans installation PWA), pas de SSR.
@@ -8,7 +8,7 @@ Angular 21, service worker (sans installation PWA), pas de SSR.
 | Commande | Description |
 | --- | --- |
 | `npm run start` | Serveur de développement sur `http://localhost:4200/` |
-| `npm run build` | Build de production dans `dist/palia-furniture-checklist/browser` |
+| `npm run build` | Build de production dans `dist/furniture-checklist-palia/browser` |
 | `npm run lint` | ESLint (TypeScript et templates) |
 | `npm run prettier` | Formatage du code |
 
